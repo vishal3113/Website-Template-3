@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    
+}
+
+.navigation{
+padding-left: 250px;
+
+
+}
+
+.logo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin: 30px;
+    padding-left: 15px;
+    color: white;
+}
+
+.nav{
+    color: white;
+    margin: 39px;
+    margin-left: 100px;
+    padding-left: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.content{
+    color: rgb(9, 9, 107);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.button{
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 15px;
+    padding: 8px;
+    font-size: 20px;
+    margin-left: 45%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.container-1{
+    background-color: rgb(5, 5, 53);
+    width: 100%;
+    height: 1040px;
+}
+
+.box-p1{
+display: flex;
+margin-left: 170px;
+}
+
+.box-p2{
+display: flex;
+margin-left: 170px;
+}
+
+.box{
+
+margin: 20px;    
+width: 330px;
+height: 330px;
+border: solid white 3px;
+border-radius: 15px;
+}
+
+.F-container{
+    background-color: rgb(5, 5, 53);
+    width: 500px;
+    height: 500px;
+    border: solid white 1px;
+    border-radius: 15px;
+    margin-left: 30%;
+}
+
+.fc{
+    background-color: white;
+    color: grey;
+    width: 450px;
+    margin: 20px;
+    height: 40px;
+    border: solid black 1px;
+    border-radius: 10px ;
+
+}
+
+.footer{
+    background-color: rgb(5, 5, 53);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;    
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding-top: 75px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
